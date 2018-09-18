@@ -1,5 +1,3 @@
-# crafton-zadanie
-
 ## Project setup
 ```
 yarn install
